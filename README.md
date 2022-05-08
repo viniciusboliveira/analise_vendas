@@ -8,4 +8,4 @@ Esta análise de vendas foi realizada para agregar conhecimentos de importação
 
 ## Origem
 
-Projetado elaborado durante o Minicurso de Python da Hashtag Programação.
+Projeto elaborado durante o Minicurso de Python da Hashtag Programação.
